@@ -1,4 +1,3 @@
-### .
 My name is Burak Kılıç
 I am 19 years old. Currently, I'm studying Computer Science at Bilkent University and learning Java.
 <!--
