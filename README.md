@@ -1,4 +1,4 @@
-My name is Burak Kılıç
+My name is Burak Kılıç.
 I am 19 years old. Currently, I'm a freshman student studying Computer Science at Bilkent University and learning Java.
 <!--
 **burakkl/burakkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
