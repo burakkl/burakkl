@@ -1,5 +1,5 @@
 My name is Burak Kılıç.
-I am 20 years old. Currently, I'm a freshman student studying Computer Science at Bilkent University and learning Java.
+I am 20 years old. Currently, I'm a 2nd year student studying Computer Science at Bilkent University. I am learning Java and C++.
 <!--
 **burakkl/burakkl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
